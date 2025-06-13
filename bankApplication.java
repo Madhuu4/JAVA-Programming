@@ -12,7 +12,6 @@ abstract class BankAccount{
      
      public abstract void displayDetails();
       
-     
      public String getAccountHolderName(){
          return AccountHolderName;
      }
